@@ -1,6 +1,6 @@
 public class main {
-    hej {
+    hejhå {
     xcvbnm
             asdfghjk
     }
-} hej jag heter maja
+} hej jag heter sandra
